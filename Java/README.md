@@ -9,7 +9,7 @@ Sugestões de conteúdo adicional:
 ----
 | **Conceito** | **Nível** | **Status** |
 | --- | --- | --- |
-| **Fundamentos** |  | 🔲 |
+| **Fundamentos** |  | ✅ |
 | Sintaxe básica, tipos primitivos e operadores | **Iniciante** | ✅ |
 | Variáveis, constantes e escopo | **Iniciante** | ✅ |
 | Condicionais (if, switch) | **Iniciante** | ✅ |
@@ -19,9 +19,9 @@ Sugestões de conteúdo adicional:
 | Orientação a objetos: classes, objetos, construtores | **Iniciante** | ✅ |
 | Encapsulamento, herança e polimorfismo | **Iniciante** | ✅ |
 | Interfaces e classes abstratas | **Iniciante** | ✅ |
-| Pacotes e imports | **Iniciante** | 🟨 |
+| Pacotes e imports | **Iniciante** | ✅ |
 | **Intermediário** |  |  |
-| Coleções: List, Set, Map, Queue | **Intermediário** | 🔲 |
+| Coleções: List, Set, Map, Queue | **Intermediário** | 🟨 |
 | Generics | **Intermediário** | 🔲 |
 | Iterators e Iterables | **Intermediário** | 🔲 |
 | Exceções: checked, unchecked, custom | **Intermediário** | 🔲 |
