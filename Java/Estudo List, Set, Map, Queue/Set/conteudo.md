@@ -189,6 +189,18 @@ public class Campanha {
 
     // sem isso, Set compara por referência de memória — dois objetos
     // com mesmo nome seriam considerados diferentes
+
+    // Java < 16
+    // @Override
+    // public boolean equals(Object o) {
+    //     if (this == o) return true;
+    //     if (o == null || getClass() != o.getClass()) return false;
+    //     Campanha c = (Campanha) o; 
+    //     return Objects.equals(nome, c.nome) && 
+    //         Objects.equals(plataforma, c.plataforma);
+    // }
+
+    //Java 16+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -196,7 +208,7 @@ public class Campanha {
         return nome.equals(c.nome) && plataforma.equals(c.plataforma);
     }
 
-    @Override
+    @Override   
     public int hashCode() {
         return Objects.hash(nome, plataforma);
     }
@@ -242,19 +254,5 @@ System.out.println(lista.get(0)); // acesso por índice agora funciona
 | Unicidade + ordenação automática | `TreeSet` |
 | Precisa de acesso por índice | Converta para `List` |
 | Operações matemáticas de conjunto | Qualquer `Set` |
-
----
-
-## 11. Comparativo Python vs Java
-
-| Python | Java |
-|---|---|
-| `set()` | `HashSet` |
-| `set()` com `dict` ordered (3.7+) | `LinkedHashSet` |
-| `sorted(set())` | `TreeSet` |
-| `a \| b` (união) | `addAll()` |
-| `a & b` (interseção) | `retainAll()` |
-| `a - b` (diferença) | `removeAll()` |
-| `a <= b` (subconjunto) | `containsAll()` |
 
 ---

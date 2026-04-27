@@ -205,16 +205,3 @@ while (reverso.hasNext()) {
 | `peek()` | Olha o primeiro | ✅ null |
 
 ---
-
-## 9. Comparativo com Python
-
-| Python | Java |
-|---|---|
-| `collections.deque` | `LinkedList` |
-| `deque.appendleft(x)` | `addFirst(x)` |
-| `deque.append(x)` | `addLast(x)` |
-| `deque.popleft()` | `pollFirst()` |
-| `deque.pop()` | `pollLast()` |
-| `queue.Queue` | `LinkedList` como `Queue` |
-
----
