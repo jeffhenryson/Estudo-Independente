@@ -219,4 +219,3 @@ System.out.println(filaSuporte.size());  // 2
 | `len(lista)` | `lista.size()` |
 | `x in lista` | `lista.contains(x)` |
 | `dict[chave]` | `map.get(chave)` |
-
