@@ -8,6 +8,8 @@ Sugestões de conteúdo adicional:
 
 ----
 
+<a href="https://ibb.co/jP5ckRxg"><img src="https://i.ibb.co/zT5yVJLG/java-roadmap.gif" alt="java-roadmap" border="0"></a>
+
 <aside>
 
 | **Conceito** | **Nível** | **Status** |
