@@ -1,5 +1,7 @@
 // ## Exercício 4 — Ordenação
-// 
+//
+// Dado os seguintes dados:
+//
 // ```java
 // List<String> nomes = new ArrayList<>();
 // nsomes.add("Carlos");
@@ -7,7 +9,7 @@
 // nomes.add("Bruno");
 // nomes.add("Amanda");
 // nomes.add("Diego");
-// 
+//
 // List<Double> precos = new ArrayList<>();
 // precos.add(299.90);
 // precos.add(49.90);
@@ -15,7 +17,7 @@
 // precos.add(499.90);
 // precos.add(99.90);
 // ```
-// 
+//
 // 1. Ordene `nomes` em ordem alfabética e imprima
 // 2. Ordene `nomes` em ordem reversa e imprima
 // 3. Ordene `precos` em ordem crescente e imprima

@@ -17,7 +17,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Exercicio06 {
+public class Desafio {
     public static void main(String[] args) {
 
         List<String> campanhas = new ArrayList<>();

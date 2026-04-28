@@ -205,17 +205,3 @@ System.out.println(filaSuporte.size());  // 2
 | Fila FIFO | `Queue` / `LinkedList` |
 
 ---
-
-## 9. Comparativo Python vs Java
-
-| Python | Java |
-|---|---|
-| `list` | `ArrayList` |
-| `set` | `HashSet` |
-| `dict` | `HashMap` |
-| `deque` | `LinkedList` como Queue |
-| `lista.append(x)` | `lista.add(x)` |
-| `lista[0]` | `lista.get(0)` |
-| `len(lista)` | `lista.size()` |
-| `x in lista` | `lista.contains(x)` |
-| `dict[chave]` | `map.get(chave)` |

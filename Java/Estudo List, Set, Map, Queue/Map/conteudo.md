@@ -245,23 +245,3 @@ contagem.forEach((k, v) ->
 | Chaves ordenadas automaticamente | `TreeMap` |
 | Agrupar dados por categoria | `Map<K, List<V>>` |
 | Contar ocorrências | `Map<K, Integer>` + `merge()` |
-
----
-
-## 11. Comparativo Python vs Java
-
-| Python | Java |
-|---|---|
-| `dict` | `HashMap` |
-| `dict` (Python 3.7+ mantém ordem) | `LinkedHashMap` |
-| `sorted(dict)` | `TreeMap` |
-| `d["chave"]` | `map.get("chave")` |
-| `d["chave"] = valor` | `map.put("chave", valor)` |
-| `"chave" in d` | `map.containsKey("chave")` |
-| `d.get("chave", padrão)` | `map.getOrDefault("chave", padrão)` |
-| `d.items()` | `map.entrySet()` |
-| `d.keys()` | `map.keySet()` |
-| `d.values()` | `map.values()` |
-| `Counter(lista)` | `Map` + `merge()` |
-
----
