@@ -266,17 +266,3 @@ System.out.println(fila.size()); // 0
 | Pilha remover | — | `pop()` | — |
 
 ---
-
-## 11. Comparativo Python vs Java
-
-| Python | Java |
-|---|---|
-| `queue.Queue` | `LinkedList` ou `ArrayDeque` como `Queue` |
-| `collections.deque` | `ArrayDeque` como `Deque` |
-| `heapq` | `PriorityQueue` |
-| `deque.append(x)` | `offer(x)` / `offerLast(x)` |
-| `deque.popleft()` | `poll()` / `pollFirst()` |
-| `deque.appendleft(x)` | `offerFirst(x)` |
-| `deque.pop()` | `pollLast()` |
-
----
