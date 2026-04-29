@@ -21,14 +21,14 @@ Sugestões de conteúdo adicional:
 | Loops (for, while, do-while, for-each) | Iniciante | ✅ |
 | Arrays e Strings | Iniciante | ✅ |
 | Métodos e sobrecarga | Iniciante | ✅ |
-| Packages e imports**novo** | Iniciante | ✅ |
+| Packages e imports | Iniciante | ✅ |
 | Orientação a objetos: classes, objetos, construtores | Iniciante | ✅ |
 | Encapsulamento, herança e polimorfismo | Iniciante | ✅ |
 | Interfaces e classes abstratas | Iniciante | ✅ |
 | **Intermediário — Estruturas e APIs** |  |  |
 | Coleções: List, Set, Map, Queue | Intermediário | ✅ |
-| Generics | Intermediário | 🟨 |
-| Iterators e Iterables | Intermediário | 🔲 |
+| Generics | Intermediário | ✅ |
+| Iterators e Iterables | Intermediário | 🟨 |
 | Exceções: checked, unchecked, custom | Intermediário | 🔲 |
 | Enums | Intermediário | 🔲 |
 | Records (Java 16+) | Intermediário | 🔲 |
@@ -41,7 +41,7 @@ Sugestões de conteúdo adicional:
 | Anotações (@Override, @FunctionalInterface, custom) | Intermediário | 🔲 |
 | Date/Time API (java.time) | Intermediário | 🔲 |
 | I/O: leitura e escrita de arquivos | Intermediário | 🔲 |
-| Serialização de objetos**novo** | Intermediário | 🔲 |
+| Serialização de objetos | Intermediário | 🔲 |
 | Trabalhando com JSON (Jackson / Gson) | Intermediário | 🔲 |
 | **Avançado — Como Java funciona (JVM internals)** |  |  |
 | JVM: bytecode, class loader, runtime | Avançado | 🔲 |
@@ -153,17 +153,17 @@ Sugestões de conteúdo adicional:
 | **Conceito** | **Nível** | **Status** |
 | --- | --- | --- |
 | **Fundamentos** |  |  |
-| Níveis de log: DEBUG, INFO, WARN, ERROR**novo** | Iniciante | 🔲 |
-| java.util.logging (JUL) — logging nativo**novo** | Iniciante | 🔲 |
+| Níveis de log: DEBUG, INFO, WARN, ERROR | Iniciante | 🔲 |
+| java.util.logging (JUL) — logging nativo | Iniciante | 🔲 |
 | **Bibliotecas de logging** |  |  |
 | SLF4J — facade de logging | Intermediário | 🔲 |
 | Logback — implementação padrão com Spring | Intermediário | 🔲 |
-| Log4j2 — alternativa de alta performance**novo** | Intermediário | 🔲 |
-| Configuração via logback.xml / log4j2.xml**novo** | Intermediário | 🔲 |
+| Log4j2 — alternativa de alta performance | Intermediário | 🔲 |
+| Configuração via logback.xml / log4j2.xml | Intermediário | 🔲 |
 | **Logging em produção** |  |  |
-| MDC (Mapped Diagnostic Context) para rastreio**novo** | Avançado | 🔲 |
-| Log estruturado (JSON) para observabilidade**novo** | Avançado | 🔲 |
-| Integração com Spring Boot Actuator**novo** | Avançado | 🔲 |
+| MDC (Mapped Diagnostic Context) para rastreio | Avançado | 🔲 |
+| Log estruturado (JSON) para observabilidade | Avançado | 🔲 |
+| Integração com Spring Boot Actuator | Avançado | 🔲 |
 </aside>
 
 ---
@@ -176,13 +176,13 @@ Sugestões de conteúdo adicional:
 | --- | --- | --- |
 | **Fundamentos de Threads** |  |  |
 | Threads e Runnable | Intermediário | 🔲 |
-| Ciclo de vida de uma thread**novo** | Intermediário | 🔲 |
+| Ciclo de vida de uma thread | Intermediário | 🔲 |
 | synchronized, locks e volatile | Intermediário | 🔲 |
-| wait(), notify() e notifyAll()**novo** | Intermediário | 🔲 |
+| wait(), notify() e notifyAll() | Intermediário | 🔲 |
 | **Concorrência avançada** |  |  |
-| ExecutorService e thread pools**novo** | Avançado | 🔲 |
+| ExecutorService e thread pools | Avançado | 🔲 |
 | CompletableFuture e programação assíncrona | Avançado | 🔲 |
-| java.util.concurrent (ConcurrentHashMap, BlockingQueue, etc)**novo** | Avançado | 🔲 |
+| java.util.concurrent (ConcurrentHashMap, BlockingQueue, etc) | Avançado | 🔲 |
 | Virtual Threads (Java 21, Project Loom) | Avançado | 🔲 |
 </aside>
 
@@ -195,14 +195,14 @@ Sugestões de conteúdo adicional:
 | **Conceito** | **Nível** | **Status** |
 | --- | --- | --- |
 | **JDBC puro** |  |  |
-| Conceito de JDBC e drivers**novo** | Intermediário | 🔲 |
-| Connection, Statement e ResultSet**novo** | Intermediário | 🔲 |
-| PreparedStatement e prevenção de SQL Injection**novo** | Intermediário | 🔲 |
-| Transações com JDBC**novo** | Intermediário | 🔲 |
-| Connection pooling básico (DataSource)**novo** | Intermediário | 🔲 |
+| Conceito de JDBC e drivers | Intermediário | 🔲 |
+| Connection, Statement e ResultSet | Intermediário | 🔲 |
+| PreparedStatement e prevenção de SQL Injection | Intermediário | 🔲 |
+| Transações com JDBC | Intermediário | 🔲 |
+| Connection pooling básico (DataSource) | Intermediário | 🔲 |
 | **Abstrações sobre JDBC** |  |  |
-| Spring JDBC Template**novo** | Avançado | 🔲 |
-| Jdbi3 — alternativa leve ao JPA**novo** | Avançado | 🔲 |
+| Spring JDBC Template | Avançado | 🔲 |
+| Jdbi3 — alternativa leve ao JPA | Avançado | 🔲 |
 </aside>
 
 ---
@@ -216,13 +216,13 @@ Sugestões de conteúdo adicional:
 | **Testes unitários** |  |  |
 | JUnit 5: anotações, assertions, ciclo de vida | Intermediário | 🔲 |
 | Mockito: mocks, stubs e verify | Intermediário | 🔲 |
-| Testes com exceções e edge cases**novo** | Intermediário | 🔲 |
-| Parametrized tests (JUnit 5)**novo** | Intermediário | 🔲 |
+| Testes com exceções e edge cases | Intermediário | 🔲 |
+| Parametrized tests (JUnit 5) | Intermediário | 🔲 |
 | **Testes de integração e carga** |  |  |
 | Testes com @SpringBootTest e MockMvc | Avançado | 🔲 |
 | Testcontainers — banco real em testes | Avançado | 🔲 |
-| Rest Assured — testes de API REST**novo** | Avançado | 🔲 |
-| JMeter — testes de carga e performance**novo** | Avançado | 🔲 |
+| Rest Assured — testes de API REST | Avançado | 🔲 |
+| JMeter — testes de carga e performance | Avançado | 🔲 |
 </aside>
 
 ---
@@ -236,9 +236,9 @@ Sugestões de conteúdo adicional:
 | **Ferramentas** |  |  |
 | JMH — microbenchmarks precisos em Java | Avançado | 🔲 |
 | VisualVM — análise de heap e threads em tempo real | Avançado | 🔲 |
-| Java Flight Recorder (JFR) + JDK Mission Control**novo** | Avançado | 🔲 |
-| Análise de GC logs**novo** | Avançado | 🔲 |
-| Detecção de memory leaks e heap dumps**novo** | Avançado | 🔲 |
+| Java Flight Recorder (JFR) + JDK Mission Control | Avançado | 🔲 |
+| Análise de GC logs | Avançado | 🔲 |
+| Detecção de memory leaks e heap dumps | Avançado | 🔲 |
 </aside>
 
 ---

@@ -166,14 +166,3 @@ for (int i = 0; i < 3; i++) {
 ```
 
 ---
-
-## 8. Comparativo com Python
-
-| Python | Java |
-| --- | --- |
-| `while cond:` | `while (cond) {}` |
-| `for i in range(5):` | `for (int i = 0; i < 5; i++) {}` |
-| `for x in lista:` | `for (Tipo x : lista) {}` |
-| `break` | `break` |
-| `continue` | `continue` |
-| Não tem do-while | `do {} while (cond);` |
