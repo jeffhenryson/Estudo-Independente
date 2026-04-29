@@ -26,8 +26,8 @@ Sugestões de conteúdo adicional:
 | Encapsulamento, herança e polimorfismo | Iniciante | ✅ |
 | Interfaces e classes abstratas | Iniciante | ✅ |
 | **Intermediário — Estruturas e APIs** |  |  |
-| Coleções: List, Set, Map, Queue | Intermediário | 🟨 |
-| Generics | Intermediário | 🔲 |
+| Coleções: List, Set, Map, Queue | Intermediário | ✅ |
+| Generics | Intermediário | 🟨 |
 | Iterators e Iterables | Intermediário | 🔲 |
 | Exceções: checked, unchecked, custom | Intermediário | 🔲 |
 | Enums | Intermediário | 🔲 |
