@@ -1,4 +1,9 @@
-Java/2. Intermediario/7. Lambdas Expression /*
-Java/2. Intermediario/6. Sealed classes/*
-Java/2. Intermediario/5. Enums/*
+Java/2. Intermediario/12. Method references/*
+Java/2. Intermediario/11. Functional interfaces <-/*
+Java/2. Intermediario/10. Optional/*
+Java/2. Intermediario/9. Stream API/*
+Java/2. Intermediario/8. Lambdas Expression /*
+Java/2. Intermediario/7. Sealed classes/*
+Java/2. Intermediario/6. Records/*
+Java/4. Springboot/*
 .gitignore 

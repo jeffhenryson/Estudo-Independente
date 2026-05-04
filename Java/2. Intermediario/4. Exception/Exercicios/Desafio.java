@@ -148,7 +148,7 @@ class PlanoInvalidoException extends RuntimeException {
     }
 }
 
-class LimitePlanoException extends RuntimeException {
+class LimitePlanoException extends Exception {
     public LimitePlanoException(String plano, int limite, int atual) {
         super("Limite do plano " + plano + " atingido: " + atual + "/" + limite);
     }

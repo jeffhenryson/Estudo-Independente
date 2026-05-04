@@ -28,10 +28,10 @@ Sugestões de conteúdo adicional:
 | **Intermediário — Estruturas e APIs** |  |  |
 | Coleções: List, Set, Map, Queue | Intermediário | ✅ |
 | Generics | Intermediário | ✅ |
-| Iterators e Iterables | Intermediário | 🟨 |
-| Exceções: checked, unchecked, custom | Intermediário | 🔲 |
-| Enums | Intermediário | 🔲 |
-| Records (Java 16+) | Intermediário | 🔲 |
+| Iterators e Iterables | Intermediário | ✅ |
+| Exceções: checked, unchecked, custom | Intermediário | ✅ |
+| Enums | Intermediário | ✅ |
+| Records (Java 16+) | Intermediário | 🟨 |
 | Sealed classes (Java 17+) | Intermediário | 🔲 |
 | Lambdas e expressões funcionais | Intermediário | 🔲 |
 | Stream API (filter, map, reduce, collect) | Intermediário | 🔲 |
