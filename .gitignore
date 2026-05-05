@@ -6,7 +6,14 @@ Java/2. Intermediario/8. Lambdas Expression /*
 Java/2. Intermediario/7. Sealed classes/*
 Java/4. Springboot/*
 
-.gitignore 
+.gitignore
 
-Java/1. Fundamentos/8. Interfaces e classes abstratas/*
-Java/1. Fundamentos/9. Programação Orientada a Objetos/*
+Java/1. Fundamentos/8. Programação Orientada a Objetos/2. Encapsulamento
+
+Java/1. Fundamentos/8. Programação Orientada a Objetos/3. Heranca
+
+Java/1. Fundamentos/8. Programação Orientada a Objetos/4. Polimofismo
+
+Java/1. Fundamentos/8. Programação Orientada a Objetos/5. Abstracao
+
+Java/1. Fundamentos/9. Interfaces e classes abstratas/*
