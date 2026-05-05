@@ -31,8 +31,8 @@ Sugestões de conteúdo adicional:
 | Iterators e Iterables | Intermediário | ✅ |
 | Exceções: checked, unchecked, custom | Intermediário | ✅ |
 | Enums | Intermediário | ✅ |
-| Records (Java 16+) | Intermediário | 🟨 |
-| Sealed classes (Java 17+) | Intermediário | 🔲 |
+| Records (Java 16+) | Intermediário | ✅ |
+| Sealed classes (Java 17+) | Intermediário | 🟨 |
 | Lambdas e expressões funcionais | Intermediário | 🔲 |
 | Stream API (filter, map, reduce, collect) | Intermediário | 🔲 |
 | Optional | Intermediário | 🔲 |
