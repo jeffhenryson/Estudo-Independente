@@ -11,34 +11,42 @@ Sugestões de conteúdo adicional:
 <a href="https://ibb.co/jP5ckRxg"><img src="https://i.ibb.co/zT5yVJLG/java-roadmap.gif" alt="java-roadmap" border="0"></a>
 
 <aside>
-
 | **Conceito** | **Nível** | **Status** |
 | --- | --- | --- |
 | **Fundamentos** |  | ✅ |
 | Sintaxe básica, tipos primitivos e operadores | Iniciante | ✅ |
 | Variáveis, constantes e escopo | Iniciante | ✅ |
-| Condicionais (if, switch) | Iniciante | ✅ |
-| Loops (for, while, do-while, for-each) | Iniciante | ✅ |
+| Condicionais: if | Iniciante | ✅ |
+| Condicionais: switch | Iniciante | ✅ |
+| Loops: for | Iniciante | ✅ |
+| Loops: while | Iniciante | ✅ |
+| Loops: do-while | Iniciante | ✅ |
+| Loops: for-each | Iniciante | ✅ |
 | Arrays e Strings | Iniciante | ✅ |
 | Métodos e sobrecarga | Iniciante | ✅ |
 | Packages e imports | Iniciante | ✅ |
 | Orientação a objetos: classes, objetos, construtores | Iniciante | ✅ |
-| Encapsulamento, herança e polimorfismo | Iniciante | ✅ |
+| Encapsulamento | Iniciante | ✅ |
+| Herança | Iniciante | ✅ |
+| Polimorfismo | Iniciante | ✅ |
 | Interfaces e classes abstratas | Iniciante | ✅ |
 | **Intermediário — Estruturas e APIs** |  |  |
-| Coleções: List, Set, Map, Queue | Intermediário | ✅ |
+| Coleções: List | Intermediário | ✅ |
+| Coleções: Set | Intermediário | ✅ |
+| Coleções: Map | Intermediário | ✅ |
+| Coleções: Queue | Intermediário | ✅ |
 | Generics | Intermediário | ✅ |
 | Iterators e Iterables | Intermediário | ✅ |
 | Exceções: checked, unchecked, custom | Intermediário | ✅ |
 | Enums | Intermediário | ✅ |
 | Records (Java 16+) | Intermediário | ✅ |
 | Sealed classes (Java 17+) | Intermediário | 🟨 |
-| Lambdas e expressões funcionais | Intermediário | 🔲 |
-| Stream API (filter, map, reduce, collect) | Intermediário | 🔲 |
-| Optional | Intermediário | 🔲 |
-| Functional interfaces (Predicate, Function, Consumer, Supplier) | Intermediário | 🔲 |
-| Method references | Intermediário | 🔲 |
-| Anotações (@Override, @FunctionalInterface, custom) | Intermediário | 🔲 |
+| Lambdas e expressões funcionais  | Intermediário | 🟨 |
+| Stream API: (filter, map, reduce, collect) | Intermediário | 🟨 |
+| Optional | Intermediário | 🟨 |
+| Functional interfaces: Predicate, Function, Consumer, Supplier | Intermediário | 🟨 |
+| Method references | Intermediário | 🟨 |
+| Anotações @Override, @FunctionalInterface, custom | Intermediário | 🔲 |
 | Date/Time API (java.time) | Intermediário | 🔲 |
 | I/O: leitura e escrita de arquivos | Intermediário | 🔲 |
 | Serialização de objetos | Intermediário | 🔲 |
@@ -51,8 +59,6 @@ Sugestões de conteúdo adicional:
 | Proxy dinâmico e instrumentação | Avançado | 🔲 |
 | Classloaders e isolamento de módulos | Avançado | 🔲 |
 | Module system (Java 9+ JPMS) | Avançado | 🔲 |
-</aside>
-
 ---
 
 <aside>
