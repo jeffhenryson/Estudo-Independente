@@ -1,3 +1,7 @@
+Java/2. Intermediario/16. Date (java.time)/*
+Java/2. Intermediario/15. JSON (Jackson)/*
+Java/2. Intermediario/14. Annotations/*
+Java/2. Intermediario/13. I-O leitura e escrita de arquivos/*
 Java/2. Intermediario/12. Method references/*
 Java/2. Intermediario/11. Functional interfaces <-/*
 Java/2. Intermediario/10. Optional/*
@@ -8,7 +12,6 @@ Java/4. Springboot/*
 
 .gitignore
 
-Java/1. Fundamentos/8. Programação Orientada a Objetos/3. Heranca
 Java/1. Fundamentos/8. Programação Orientada a Objetos/4. Polimofismo
 Java/1. Fundamentos/8. Programação Orientada a Objetos/5. Abstracao
 

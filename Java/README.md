@@ -13,7 +13,7 @@ Sugestões de conteúdo adicional:
 <aside>
 | **Conceito** | **Nível** | **Status** |
 | --- | --- | --- |
-| **Fundamentos** |  | ✅ |
+| **Fundamentos (80)** |  | ✅ |
 | Sintaxe básica, tipos primitivos e operadores | Iniciante | ✅ |
 | Variáveis, constantes e escopo | Iniciante | ✅ |
 | Condicionais: if | Iniciante | ✅ |
@@ -29,8 +29,9 @@ Sugestões de conteúdo adicional:
 | Encapsulamento | Iniciante | ✅ |
 | Herança | Iniciante | ✅ |
 | Polimorfismo | Iniciante | ✅ |
+| Abstração | Iniciante | ✅ |
 | Interfaces e classes abstratas | Iniciante | ✅ |
-| **Intermediário — Estruturas e APIs** |  |  |
+| **Intermediário — Estruturas e APIs (100)** |  |  |
 | Coleções: List | Intermediário | ✅ |
 | Coleções: Set | Intermediário | ✅ |
 | Coleções: Map | Intermediário | ✅ |
@@ -44,13 +45,15 @@ Sugestões de conteúdo adicional:
 | Lambdas e expressões funcionais  | Intermediário | 🟨 |
 | Stream API: (filter, map, reduce, collect) | Intermediário | 🟨 |
 | Optional | Intermediário | 🟨 |
-| Functional interfaces: Predicate, Function, Consumer, Supplier | Intermediário | 🟨 |
+| Functional interfaces: Predicate | Intermediário | 🟨 |
+| Functional interfaces: Function | Intermediário | 🟨 |
+| Functional interfaces: Consumer | Intermediário | 🟨 |
+| Functional interfaces: Supplier | Intermediário | 🟨 |
 | Method references | Intermediário | 🟨 |
-| Anotações @Override, @FunctionalInterface, custom | Intermediário | 🔲 |
-| Date/Time API (java.time) | Intermediário | 🔲 |
-| I/O: leitura e escrita de arquivos | Intermediário | 🔲 |
-| Serialização de objetos | Intermediário | 🔲 |
-| Trabalhando com JSON (Jackson / Gson) | Intermediário | 🔲 |
+| I/O: leitura e escrita de arquivos | Intermediário | 🟨 |
+| Anotações @Override, @FunctionalInterface, custom | Intermediário | 🟨 |
+| Date/Time API (java.time) | Intermediário | 🟨 |
+| Trabalhando com JSON (Jackson / Gson) | Intermediário | 🟨 |
 | **Avançado — Como Java funciona (JVM internals)** |  |  |
 | JVM: bytecode, class loader, runtime | Avançado | 🔲 |
 | Garbage Collection e gerenciamento de memória | Avançado | 🔲 |
@@ -59,7 +62,6 @@ Sugestões de conteúdo adicional:
 | Proxy dinâmico e instrumentação | Avançado | 🔲 |
 | Classloaders e isolamento de módulos | Avançado | 🔲 |
 | Module system (Java 9+ JPMS) | Avançado | 🔲 |
----
 
 <aside>
 
