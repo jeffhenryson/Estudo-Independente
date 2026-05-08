@@ -11,6 +11,7 @@ Sugestões de conteúdo adicional:
 <a href="https://ibb.co/jP5ckRxg"><img src="https://i.ibb.co/zT5yVJLG/java-roadmap.gif" alt="java-roadmap" border="0"></a>
 
 <aside>
+
 | **Conceito** | **Nível** | **Status** |
 | --- | --- | --- |
 | **Fundamentos (80)** |  | ✅ |
@@ -41,7 +42,7 @@ Sugestões de conteúdo adicional:
 | Exceções: checked, unchecked, custom | Intermediário | ✅ |
 | Enums | Intermediário | ✅ |
 | Records (Java 16+) | Intermediário | ✅ |
-| Sealed classes (Java 17+) | Intermediário | 🟨 |
+| Sealed classes (Java 17+) | Intermediário | ✅ |
 | Lambdas e expressões funcionais  | Intermediário | 🟨 |
 | Stream API: (filter, map, reduce, collect) | Intermediário | 🟨 |
 | Optional | Intermediário | 🟨 |
