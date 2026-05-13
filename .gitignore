@@ -5,12 +5,11 @@ Java/2. Intermediario/13. I-O leitura e escrita de arquivos/*
 Java/2. Intermediario/12. Method references/*
 Java/2. Intermediario/11. Functional interfaces <-/*
 Java/2. Intermediario/10. Optional/*
-Java/2. Intermediario/9. Stream API
-Java/2. Intermediario/9. Stream API/1. filter
+
 Java/2. Intermediario/9. Stream API/2. map
 Java/2. Intermediario/9. Stream API/3. Collect & Reduce
 Java/3. Avancado
-Java/4. Springboot/*
 
+Java/4. Springboot/*
 
 .gitignore
